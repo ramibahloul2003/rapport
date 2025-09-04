@@ -16,8 +16,7 @@ Chaque rapport aborde un sujet différent en lien avec la **cybersécurité, l�
 |----|--------------------------------|---------|
 | 1  | Rapport 1 – *Fog_report_troubleshooting.pdf* | [Voir](https://github.com/ramibahloul2003/rapport/blob/main/Fog_report_troubleshooting.pdf) |
 | 2  | Rapport 2 – *Operating_system.pdf* | [Voir](https://github.com/ramibahloul2003/rapport/blob/main/Operating_system.pdf) |
-| 3  | Rapport 3 – *Tatouage_numérique_basé_sur_cryptographie_visuelle.pdf
-* | [Voir](https://github.com/ramibahloul2003/rapport/blob/main/Tatouage_num%C3%A9rique_bas%C3%A9_sur_cryptographie_visuelle.pdf) |
+| 3  | Rapport 3 – *Tatouage_numérique_basé_sur_cryptographie_visuelle.pdf* | [Voir](Tatouage_numérique_basé_sur_cryptographie_visuelle.pdf) |
 | 4  | Rapport 4 – *X.25_et_MPLS.pdf* | [Voir](https://github.com/ramibahloul2003/rapport/blob/main/X.25_et_MPLS.pdf) |
 | 5  | Rapport 5 – *ai.pdf* | [Voir](https://github.com/ramibahloul2003/rapport/blob/main/ai.pdf) |
 | 6  | Rapport 6 – *biométrie_multimodale.pdf* | [Voir](https://github.com/ramibahloul2003/rapport/blob/main/biom%C3%A9trie_multimodale.pdf) |
