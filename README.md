@@ -22,7 +22,7 @@ Chaque rapport aborde un sujet différent en lien avec la **cybersécurité, l�
 | 6  | Rapport 6 – *biométrie_multimodale.pdf* | [Voir](https://github.com/ramibahloul2003/rapport/blob/main/biom%C3%A9trie_multimodale.pdf) |
 | 7  | Rapport 7 – *class-scheduling-CSP.pdf* | [Voir](https://github.com/ramibahloul2003/rapport/blob/main/class-scheduling-CSP.pdf) |
 | 8  | Rapport 8 – *gestion_d'une_bibliothéque.pdf* | [Voir](https://github.com/ramibahloul2003/rapport/blob/main/gestion_d'une_biblioth%C3%A9que.pdf) |
-| 9  | Rapport 9 – */stage.pdf* | [Voir](https://github.com/ramibahloul2003/rapport/blob/main/stage.pdf) |
+| 9  | Rapport 9 – *stage.pdf* | [Voir](https://github.com/ramibahloul2003/rapport/blob/main/stage.pdf) |
 
 ---
 
