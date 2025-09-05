@@ -5,7 +5,7 @@
 ---
 # 📚 Rapports de Cybersécurité & Informatique
 
-Bienvenue dans ce dépôt GitHub regroupant mes **9 rapports** rédigés dans le cadre de mes études et de mes projets personnels.  
+Bienvenue dans ce dépôt GitHub regroupant mes **10 rapports** rédigés dans le cadre de mes études et de mes projets personnels.  
 Chaque rapport aborde un sujet différent en lien avec la **cybersécurité, l’informatique et les systèmes**.  
 
 ---
@@ -21,7 +21,10 @@ Chaque rapport aborde un sujet différent en lien avec la **cybersécurité, l�
 | 5  | Rapport 5 – *ai.pdf* | [Voir](https://github.com/ramibahloul2003/rapport/blob/main/ai.pdf) |
 | 6  | Rapport 6 – *biométrie_multimodale.pdf* | [Voir](https://github.com/ramibahloul2003/rapport/blob/main/biom%C3%A9trie_multimodale.pdf) |
 | 7  | Rapport 7 – *class-scheduling-CSP.pdf* | [Voir](https://github.com/ramibahloul2003/rapport/blob/main/class-scheduling-CSP.pdf) |
+| 7  | Rapport 8 – *gestion_d'une_bibliotheque.pdf* | [Voir](https://github.com/ramibahloul2003/rapport/blob/main/gestion_d'une_biblioth%C3%A9que.pdf) |
 | 9  | Rapport 9 – *stage.pdf* | [Voir](https://github.com/ramibahloul2003/rapport/blob/main/stage.pdf) |
+| 9  | Rapport 10 – *cahier_de_charge.pdf* | [Voir](https://github.com/ramibahloul2003/rapport/blob/main/cahier%20de%20charge.pdf) |
+
 
 ---
 
